@@ -1,0 +1,30 @@
+h1 {
+  background-color: #F9F264;
+  padding: 45px 0;
+    }
+body {
+  border-style: solid;
+      border-color:#333333;
+      width: 500px;
+  font-family: Arial, sans-serif;
+    }
+
+img {
+  width: 30%;
+  border: 3px solid #F9F264
+}
+h1, h2 {
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+ul li {
+  border-bottom-style: dotted;
+  padding: 0;
+  border-bottom-width: thin;
+  padding: 10px 0;
+  list-style-type: none;
+}
+
+header {
+  margin: 20px;
+}
